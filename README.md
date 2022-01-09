@@ -1,1 +1,1 @@
-# SpringBoot_GuestBook
+# 방명록 구현
